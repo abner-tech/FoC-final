@@ -1,0 +1,31 @@
+* {
+  box-sizing: border-box;
+}
+
+/* Style the header */
+header {
+  background-color: #483D8B;
+  padding: 3px;
+  text-align: center;
+  font-size: 25px;
+  color: MediumSpringGreen; 
+  font="font-family:courier;
+}
+/* Style the background */
+body {
+  background-image: url("healthyliving.jpg");
+  background-repeat: no-repeat;
+  background-position: center;	
+  background-size: contain;
+}
+	
+
+/* Style the footer */
+footer {
+  background-color: #483D8B;
+  padding: 10px;
+  text-align: center;
+  color: Gold;
+}
+
+
